@@ -17,6 +17,10 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+ * 1. 先在pom文件导入一个http工具，有很多种，这里用的是apache的httpclient
+ * 2  看下面例子
+ */
 public class TestHttpUtil {
 
     @Test
