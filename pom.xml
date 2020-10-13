@@ -19,7 +19,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
         <!--@Log4j2, @Data等注解都需要这个包，但@Log4j2除了这个包，还需要下面log4j2的包-->
